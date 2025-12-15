@@ -71,7 +71,7 @@ Please download the files and place them in a folder named `slooze_challenge/` (
 Clone this repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/slooze-inventory-analytics.git
+git clone https://github.com/Harish9215/Slooze-take-home-challenge-data-science-analytics
 ```
 ### 2. Download the Data: Download the CSV files from Kaggle and unzip them into a folder named https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data
 
